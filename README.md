@@ -1,11 +1,4 @@
-### Hi there 👋
-
-<!--
-**akibria-dev/akibria-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-<h1 align="center">Hi! I'm Abul</h1>
+<h1 align="center">Hi 👋! I'm Abul</h1>
 
 <h3 align="center">A passionate software developer who is ready to reach sky</h3>
 
@@ -30,4 +23,3 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akibria-dev&show_icons=true&locale=en&layout=compact" alt="akibria-dev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akibria-dev&show_icons=true&locale=en" alt="akibria-dev" /></p>
--->
