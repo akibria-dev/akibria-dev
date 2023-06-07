@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋! I'm Abul</h1>
 
-<h3 align="center">A passionate software developer who is ready to reach sky</h3>
+<h3 align="center">A passionate software developer who is ready to reach the sky</h3>
+ 
+-💬 I have the skills of JavaScript, React, HTML, CSS, Express.js, Node.js, PostgreSQL just to name the fews
 
 -🔭 I’m currently learning Python and TypeScript
 
