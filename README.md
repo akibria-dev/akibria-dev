@@ -10,7 +10,7 @@
 
 -💬 Recently graduated from a 6-month software development training bootcamp
 
--👨‍💻 My porfolio is here : www.abul.uk
+-👨‍💻 My porfolio is here : https://ak-portfolio-three.vercel.app/
 
 -📫 How to reach me ahkibria@hotmail.co.uk
 
