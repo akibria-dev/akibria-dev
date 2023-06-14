@@ -4,7 +4,7 @@
  
 -💬 I have the skills of JavaScript, React, HTML, CSS, Express.js, Node.js, PostgreSQL just to name the fews
 
--🔭 I’m currently learning Python and TypeScript
+-🔭 I’m currently learning Python myself
 
 -🌱 I’m currently working on my new project "Care Management"
 
